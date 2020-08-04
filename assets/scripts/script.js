@@ -1,4 +1,5 @@
 $(function() {
+	
 	Boxlayout.init();
 });
 function toggleDarkLight() {
